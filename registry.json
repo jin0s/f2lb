@@ -122,6 +122,11 @@
 				"pool_id": "b1f66fdf23c559b4d8a1d9a0f1d95e06f918008f441b8b550e6f054f",
 				"member_since": "2021-03-03",
 				"name": "LOFI"
+			},
+			"20": {
+				"pool_id": "7a173fdf2ceee8a24ddc173be6810cf3259a80fe02a8d10923921d17",
+				"member_since": "2022-02-14",
+				"name": "STKCH"
 			}
 		}
 	}
